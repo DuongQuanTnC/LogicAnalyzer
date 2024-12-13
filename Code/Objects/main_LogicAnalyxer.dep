@@ -1,0 +1,44 @@
+Dependencies for Project 'main', Target 'LogicAnalyxer': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (.\Include\GPIO.h)(0x6755B1F0)()
+F (.\Include\main.h)(0x675AF7EC)()
+F (.\Include\RCC.h)(0x6755B1F0)()
+F (.\Include\TIM.h)(0x6755B1F0)()
+F (.\Include\USART.h)(0x6755B1F0)()
+F (.\Source\RCC.c)(0x6755B1F0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include -I ./Source -I ../Code-I./RTE/Device/STM32F103C8-I./RTE/_LogicAnalyxer-ID:/Keil/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/Keil/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/rcc.o -MMD)
+I (Include\RCC.h)(0x6755B1F0)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67192C4B)
+I (RTE\_LogicAnalyxer\RTE_Components.h)(0x6755B773)
+I (D:\Keil\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BE698)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67192C4B)
+F (.\Source\TIM.c)(0x6755B1F0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include -I ./Source -I ../Code-I./RTE/Device/STM32F103C8-I./RTE/_LogicAnalyxer-ID:/Keil/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/Keil/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/tim.o -MMD)
+I (Include\TIM.h)(0x6755B1F0)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67192C4B)
+I (RTE\_LogicAnalyxer\RTE_Components.h)(0x6755B773)
+I (D:\Keil\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BE698)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67192C4B)
+I (Include\RCC.h)(0x6755B1F0)
+F (.\Source\USART.c)(0x67580B0F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include -I ./Source -I ../Code-I./RTE/Device/STM32F103C8-I./RTE/_LogicAnalyxer-ID:/Keil/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/Keil/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/usart.o -MMD)
+I (Include\USART.h)(0x6755B1F0)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67192C4B)
+I (RTE\_LogicAnalyxer\RTE_Components.h)(0x6755B773)
+I (D:\Keil\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BE698)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67192C4B)
+I (Include\RCC.h)(0x6755B1F0)
+F (.\main.c)(0x675AF7BC)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include -I ./Source -I ../Code-I./RTE/Device/STM32F103C8-I./RTE/_LogicAnalyxer-ID:/Keil/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/Keil/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/main.o -MMD)
+I (Include\main.h)(0x675AF7EC)
+I (Include\GPIO.h)(0x6755B1F0)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67192C4B)
+I (RTE\_LogicAnalyxer\RTE_Components.h)(0x6755B773)
+I (D:\Keil\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BE698)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67192C4B)
+I (Include\RCC.h)(0x6755B1F0)
+I (Include\USART.h)(0x6755B1F0)
+I (Include\TIM.h)(0x6755B1F0)
+F (RTE/Device/STM32F103C8/RTE_Device.h)(0x6755B104)()
+F (RTE/Device/STM32F103C8/startup_stm32f10x_md.s)(0x6755B104)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/STM32F103C8-I./RTE/_LogicAnalyxer-ID:/Keil/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/Keil/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 541" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE/Device/STM32F103C8/system_stm32f10x.c)(0x6755B104)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include -I ./Source -I ../Code-I./RTE/Device/STM32F103C8-I./RTE/_LogicAnalyxer-ID:/Keil/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-ID:/Keil/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="541" -DSTM32F10X_MD -D_RTE_-o ./objects/system_stm32f10x.o -MMD)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x67192C4B)
+I (RTE\_LogicAnalyxer\RTE_Components.h)(0x6755B773)
+I (D:\Keil\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm3.h)(0x664BE698)
+I (D:\Keil\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x67192C4B)

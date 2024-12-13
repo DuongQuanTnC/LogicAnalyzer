@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-536b6519d5cf929021c1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LogicPlot",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LogicPlot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LogicPlot-Debug-8d60f5d62e5ddb71bc5d.json",
+					"name" : "LogicPlot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LogicPlot_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LogicPlot_autogen-Debug-ac794f1e0876df458506.json",
+					"name" : "LogicPlot_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LogicPlot_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LogicPlot_autogen_timestamp_deps-Debug-9ab1a5c98043bf0f1db2.json",
+					"name" : "LogicPlot_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/logic_analyzer/STM32_LogicAnalyzer/LogicPlot/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/logic_analyzer/STM32_LogicAnalyzer/LogicPlot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

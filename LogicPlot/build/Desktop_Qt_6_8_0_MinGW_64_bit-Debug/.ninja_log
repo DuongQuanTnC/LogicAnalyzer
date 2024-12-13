@@ -1,0 +1,12 @@
+# ninja log v6
+50	389	7556811030548145	LogicPlot_autogen/timestamp	d22e7ef7d39a89a8
+22439	168784	7556811254587802	LogicPlot.exe	8eeee62cf3802f0a
+50	389	7556811030548145	LogicPlot_autogen/mocs_compilation.cpp	d22e7ef7d39a89a8
+50	389	7556811030548145	E:/logic_analyzer/STM32_LogicAnalyzer/LogicPlot/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/LogicPlot_autogen/timestamp	d22e7ef7d39a89a8
+285	12988	7556403208325632	CMakeFiles/LogicPlot.dir/serial.cpp.obj	813fd21d6779950f
+50	389	7556811030548145	E:/logic_analyzer/STM32_LogicAnalyzer/LogicPlot/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/LogicPlot_autogen/mocs_compilation.cpp	d22e7ef7d39a89a8
+271	20222	7556403208183636	CMakeFiles/LogicPlot.dir/LogicPlot_autogen/mocs_compilation.cpp.obj	a95b3f3a0d13c7a0
+7889	53254	7553793775906242	CMakeFiles/LogicPlot.dir/qcustomplot.cpp.obj	e050bb40829dfa7e
+389	22438	7556811034088841	CMakeFiles/LogicPlot.dir/mainwindow.cpp.obj	5ed5d90df87f21a0
+275	12975	7556403208228825	CMakeFiles/LogicPlot.dir/main.cpp.obj	b87c3aa83e8fe607
+396	21520	7556811034142284	CMakeFiles/LogicPlot.dir/plot.cpp.obj	2ed61045e6d8560b
